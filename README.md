@@ -29,3 +29,9 @@ fifo.c
 priority scheduling.c
 
 single level directory.cpp
+
+c_lool.c
+
+c_scan disk scheduling.cpp
+
+deadlock avoidance.c
