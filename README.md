@@ -35,3 +35,5 @@ c_lool.c
 c_scan disk scheduling.cpp
 
 deadlock avoidance.c
+
+sstf.cpp
