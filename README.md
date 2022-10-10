@@ -43,3 +43,7 @@ file allocation statergy.c
 file_access_location.c
 
 file_access_permission.c
+
+single threading .c
+
+multi threading.c
