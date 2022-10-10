@@ -37,3 +37,9 @@ c_scan disk scheduling.cpp
 deadlock avoidance.c
 
 sstf.cpp
+
+file allocation statergy.c
+
+file_access_location.c
+
+file_access_permission.c
